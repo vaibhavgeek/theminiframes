@@ -1,4 +1,16 @@
-
+.ita
+{
+	font-style: italic;
+}
+.writeup
+{
+	color: white;
+	font-size: 18px;
+	line-height: 2;
+	position: relative;
+	top:30vh;
+	margin-left:20px;
+}
 .fa-stack-1x {
     color:white;
 }
@@ -64,7 +76,7 @@ i
 
 
 body#about { 
-  background: url(assets/About.jpg) no-repeat center center fixed; 
+  background: url(assets/Vintage_camera_wallpaper.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
