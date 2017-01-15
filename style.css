@@ -132,18 +132,23 @@ body#contact {
 	background: #ffffff; 
 
 }
+
 .links{
 	display: inline-block;
 	padding: 1%;
 	margin: 3%;
 }
+
 div.links:hover{
 	opacity: 1.3;
 }
-i{
+
+i
+{
 	color: #141F3D;
 }
-.name{
+.name
+{
 	font-size: 1.7em;
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
